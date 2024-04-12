@@ -1,4 +1,4 @@
-## Hi there, I'm Inthuyen! 👋
+### Hi there, I'm Inthuyen! 👋
 
 Check out my GitHub [repositories](https://github.com/inthuyen?tab=repositories)
 
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+### About Me
 - 🎓 Computer Science @ Toronto Metropolitan
 - 🔭 I’m currently working on creating projects in React
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inthuyen&layout=compact)
