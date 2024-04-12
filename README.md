@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🎓 Computer Science @ Toronto Metropolitan
-- 🔭 I’m currently working on creating projects in React
+- 🔭 Working on upgrading my top projects
+- 🌱 Improving my knowledge of React and Node.js
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inthuyen&layout=compact)
