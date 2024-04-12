@@ -1,4 +1,6 @@
-### Hi there, I'm Inthuyen! 👋
+## Hi there, I'm Inthuyen! 👋
+
+Check out my GitHub [projects](https://github.com/inthuyen?tab=repositories)
 
 <!--
 **inthuyen/inthuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
