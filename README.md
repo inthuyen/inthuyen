@@ -1,6 +1,6 @@
 ### Hi there, I'm Inthuyen! 👋
 
-Check out my projects and [GitHub repositories](https://github.com/inthuyen?tab=repositories)
+Check out my projects and [GitHub repositories](https://github.com/inthuyen?tab=repositories)!
 
 <!--
 **inthuyen/inthuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
