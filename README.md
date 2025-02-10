@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🎓 Computer Science @ Toronto Metropolitan
+- 🎓 Computer Science Graduate @ Toronto Metropolitan
 - 🔭 Working on upgrading my top projects
 - 🌱 Improving my knowledge of React and Node.js
 
